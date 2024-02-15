@@ -1,0 +1,6 @@
+
+1. Link how to create React table component.
+   https://www.robinwieruch.de/react-table-component/
+
+   -install React Table Library
+     npm install @table-library/react-table-library @emotion/react
